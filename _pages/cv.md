@@ -12,7 +12,7 @@ You could also find my CV [here](/files/Jiang_Hao.pdf).
 
 Biography
 ======
-🔥 I am a Ph.D. candidate in the Department of Mechanical Engineering at Shanghai Jiao Tong University. Before that, I received my M.S. degree in Mechanical Engineering from Shanghai Jiao Tong University in 2021 and my B.S. degree in Mechanical Engineering from Wuhan University of Technology in 2018. My research interests focus on **autonomous driving, embodied AI, and intelligent robotics.** I am currently working on the **prediction, decision-making, and planning of autonomous driving in complex traffic scenarios.**
+🔥 I am a Ph.D. candidate in the School of Mechanical Engineering at Shanghai Jiao Tong University. Before that, I received my M.S. degree in Mechanical Engineering from Shanghai Jiao Tong University in 2021 and my B.S. degree in Mechanical Engineering from Wuhan University of Technology in 2018. My research interests focus on **autonomous driving, embodied AI, and intelligent robotics.** I am currently working on the **prediction, decision-making, and planning of autonomous driving in complex traffic scenarios.**
 
 
 Education

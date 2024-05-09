@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-💥 Hi, I'm Hao Jiang, a Ph.D. candidate in the School of Mechanical Engineering at Shanghai Jiao Tong University. Before that, I received my M.S. degree in Mechanical Engineering from Shanghai Jiao Tong University in 2024, advised by [Prof. Xi Zhang](http://me.sjtu.edu.cn/teacher_directory1/2040.html) and [Assoc Prof. Chuan Hu](https://sites.google.com/site/chuanhumac/home). I obtained my B.S. degree in Mechanical Engineering from Wuhan University of Technology in 2018.
+💥 Hi, I'm Hao Jiang, a Ph.D. candidate in the School of Mechanical Engineering at Shanghai Jiao Tong University. Before that, I received my M.S. degree in Mechanical Engineering from Shanghai Jiao Tong University, advised by [Prof. Xi Zhang](http://me.sjtu.edu.cn/teacher_directory1/2040.html) and [Assoc Prof. Chuan Hu](https://sites.google.com/site/chuanhumac/home). Additionally, I obtained my B.S. degree in Mechanical Engineering from Wuhan University of Technology.
 
 🚀 My research interests focus on **autonomous driving, embodied AI, and intelligent robotics.** I am currently working on the **prediction, decision-making, and planning of autonomous driving in complex traffic scenarios.**
 

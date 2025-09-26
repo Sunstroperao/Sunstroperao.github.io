@@ -37,7 +37,6 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/FlowDrive.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 **FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**
 
 **Hao Jiang**, Zhipeng Zhang, Yu Gao, Zhigang Sun, Yiru Wang, Yuwen Heng, Shuo Wang, Jinhao Chai, Zhuo Chen, Hao Zhao, Hao Sun, Xi Zhang, Anqing Jiang, Chuan Hu
@@ -72,7 +71,6 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 </div>
 </div>
 
-
 - [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688/). **Hao Jiang**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. **IEEE Internet of Things Journal**
 - [Motion Query-based Multimodal Vehicle Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10397282). **Hao Jiang**, Yixun Niu, Chuan Hu, Shuang Hu, Baixuan Zhao, Xi Zhang, Yiwei Lin. **CVCI 2023**
 - [Decision-Making for Autonomous Driving Via a Coupled Reinforcement Learning Network Combined With Risk Assessment](https://ieeexplore.ieee.org/document/11091425). Chuan Hu, Yixun Niu, **Hao Jiang**, Xi Zhang, Xin Cheng. **IEEE Robotics and Automation Letters**
@@ -84,11 +82,9 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 - *2024.06 - present*, Ph.D., Shanghai Jiao Tong University, Shanghai, China
 - *2021.09 - 2024.06*, M.S., Shanghai Jiao Tong University, Shanghai, China 
 
-
 # 💻 Internships
 - *2024.09 - 2025.03*, [KargoBot](https://www.kargo-bot.com/), Shanghai, China.
 - *2023.09 - 2024.02*, [Bosch Corporate Research](https://www.bosch.com.cn/careers/), Shanghai, China.
-
 
 # 🎓 Services
 - IEEE Transactions on Intelligent Vehicles [(TIV)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)

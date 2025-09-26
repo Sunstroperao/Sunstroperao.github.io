@@ -48,7 +48,7 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/FastDrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/FastDrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving**
@@ -73,16 +73,16 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 </div>
 
 
-- [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688/). **Hao Jiang**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. IEEE Internet of Things Journal **(SCI QI, IF=8.9)**
+- [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688/). **Hao Jiang**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. **IEEE Internet of Things Journal**
 - [Motion Query-based Multimodal Vehicle Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10397282). **Hao Jiang**, Yixun Niu, Chuan Hu, Shuang Hu, Baixuan Zhao, Xi Zhang, Yiwei Lin. **CVCI 2023**
-- [Decision-Making for Autonomous Driving Via a Coupled Reinforcement Learning Network Combined With Risk Assessment](https://ieeexplore.ieee.org/document/11091425). Chuan Hu, Yixun Niu, **Hao Jiang**, Xi Zhang, Xin Cheng. IEEE Robotics and Automation Letters **(SCI Q2, IF=5.3)**
+- [Decision-Making for Autonomous Driving Via a Coupled Reinforcement Learning Network Combined With Risk Assessment](https://ieeexplore.ieee.org/document/11091425). Chuan Hu, Yixun Niu, **Hao Jiang**, Xi Zhang, Xin Cheng. **IEEE Robotics and Automation Letters**
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate, SJTU 
 
 # 📖 Educations
-- *2024.06 - present*, Ph.D., SJTU(Shanghai Jiao Tong University), Shanghai, China
-- *2021.09 - 2024.06*, M.S., SJTU(Shanghai Jiao Tong University), Shanghai, China 
+- *2024.06 - present*, Ph.D., Shanghai Jiao Tong University, Shanghai, China
+- *2021.09 - 2024.06*, M.S., Shanghai Jiao Tong University, Shanghai, China 
 
 
 # 💻 Internships
@@ -90,6 +90,6 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 - *2023.09 - 2024.02*, [Bosch Corporate Research](https://www.bosch.com.cn/careers/), Shanghai, China.
 
 
-# 🎓 Service
+# 🎓 Services
 - IEEE Transactions on Intelligent Vehicles [(TIV)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - IEEE Transactions on Transportation Electrification [(TTE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316)

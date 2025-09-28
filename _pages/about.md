@@ -21,7 +21,7 @@ redirect_from:
 
 I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao Tong University (SJTU). My research interests focus on **end-to-end autonomous driving** and **vision-language-action (VLA) for autonomous driving**. In parallel, I serve as a Strategy Intern at Bosch Corporate Research Institute, engaging in frontier research on autonomous driving.
 
-<span style="color:#DD2222;">**Note:**</span> I am committed to advancing research in autonomous driving and actively seek opportunities to collaborate with partners from academia and industry. If you are interested in potential projects or idea exchanges, please feel free to contact me at [hao.jiang@sjtu.edu.cn](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new).
+**<span style="color:#DD2222;">Note:</span> I am committed to advancing research in autonomous driving and actively seek opportunities to collaborate with partners from academia and industry. If you are interested in potential projects or idea exchanges, please feel free to contact me at [hao.jiang@sjtu.edu.cn](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new).**
 
 
 # 🔥 News
@@ -34,12 +34,14 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 # 📝 Publications 
 
+†:Equal Contribution &nbsp;&nbsp;&nbsp; *:Corresponding Author
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/FlowDrive.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**
 
-**Hao Jiang**, Zhipeng Zhang, Yu Gao, Zhigang Sun, Yiru Wang, Yuwen Heng, Shuo Wang, Jinhao Chai, Zhuo Chen, Hao Zhao, Hao Sun, Xi Zhang, Anqing Jiang, Chuan Hu
+**<ins>_Hao Jiang_</ins>**, Zhipeng Zhang, Yu Gao, Zhigang Sun, Yiru Wang, Yuwen Heng, Shuo Wang, Jinhao Chai, Zhuo Chen, Hao Zhao, Hao Sun, Xi Zhang, Anqing Jiang, Chuan Hu
 
 [![Static Badge](https://img.shields.io/badge/arXiv-Paper-red?logo=arXiv)](https://arxiv.org/abs/2509.14303)  [![Static Badge](https://img.shields.io/badge/Project-Page-red?logo=huggingface)](https://astrixdrive.github.io/FlowDrive.github.io/)  [![Static Badge](https://img.shields.io/badge/Github-Code-red?logo=github)](https://github.com/AstrixDrive/FlowDrive) ![GitHub Repo stars](https://img.shields.io/github/stars/AstrixDrive/FlowDrive)
 
@@ -52,7 +54,7 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 **Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving**
 
-**Hao Jiang**, Chuan Hu, Yukang Shi, Yuan He, Ke Wang, Xi Zhang, Zhipeng Zhang
+**<ins>_Hao Jiang_</ins>**, Chuan Hu, Yukang Shi, Yuan He, Ke Wang, Xi Zhang, Zhipeng Zhang
 
 [![Static Badge](https://img.shields.io/badge/arXiv-Paper-red?logo=arXiv)](https://arxiv.org/abs/2506.05442)  [![Static Badge](https://img.shields.io/badge/Github-Code-red?logo=github)]() 
 
@@ -64,16 +66,16 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 **Hybrid Attention-based Multi-task Vehicle Motion Prediction Using Non-Autoregressive Transformer and Mixture of Experts<**
 
-**Hao Jiang**, Chuan Hu, Yixun Niu, Biao Yang, Hao Chen, Xi Zhang
+**<ins>_Hao Jiang_</ins>**, Chuan Hu, Yixun Niu, Biao Yang, Hao Chen, Xi Zhang
 
 [![Static Badge](https://img.shields.io/badge/IEEE-Paper-red?logo=IEEE)](https://ieeexplore.ieee.org/abstract/document/10816591)  [![Static Badge](https://img.shields.io/badge/Github-Code-red?logo=github)](https://github.com/Sunstroperao/TAME) ![GitHub Repo stars](https://img.shields.io/github/stars/Sunstroperao/TAME)
 
 </div>
 </div>
 
-- [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688/). **Hao Jiang**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. **IEEE Internet of Things Journal**
-- [Motion Query-based Multimodal Vehicle Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10397282). **Hao Jiang**, Yixun Niu, Chuan Hu, Shuang Hu, Baixuan Zhao, Xi Zhang, Yiwei Lin. **CVCI 2023**
-- [Decision-Making for Autonomous Driving Via a Coupled Reinforcement Learning Network Combined With Risk Assessment](https://ieeexplore.ieee.org/document/11091425). Chuan Hu, Yixun Niu, **Hao Jiang**, Xi Zhang, Xin Cheng. **IEEE Robotics and Automation Letters**
+- [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688/). **<ins>_Hao Jiang_</ins>**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. **IEEE Internet of Things Journal**
+- [Motion Query-based Multimodal Vehicle Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10397282). **<ins>_Hao Jiang_</ins>**, Yixun Niu, Chuan Hu, Shuang Hu, Baixuan Zhao, Xi Zhang, Yiwei Lin. **CVCI 2023**
+- [Decision-Making for Autonomous Driving Via a Coupled Reinforcement Learning Network Combined With Risk Assessment](https://ieeexplore.ieee.org/document/11091425). Chuan Hu, Yixun Niu, **<ins>_Hao Jiang_</ins>**, Xi Zhang, Xin Cheng. **IEEE Robotics and Automation Letters**
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate, SJTU 

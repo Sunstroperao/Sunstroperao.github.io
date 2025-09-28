@@ -34,7 +34,7 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 # 📝 Publications 
 
-†:Equal Contribution &nbsp;&nbsp;&nbsp; *:Corresponding Author
+<sup>†</sup>:Equal Contribution &nbsp;&nbsp;&nbsp; <sup>*</sup>:Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/FlowDrive.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

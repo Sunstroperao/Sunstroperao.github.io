@@ -26,6 +26,7 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 # 🔥 News
 - *2025.09*: 🔥 We released **FlowDrive** ! [Check it out !](https://astrixdrive.github.io/FlowDrive.github.io/)  
+- *2025.09*: 🔥 We released **AnchDrive** ! [Check it out !](https://arxiv.org/abs/2509.20253)  
 - *2025.06*: 🔥 We released **FastDrive** ! [Check it out !](https://arxiv.org/abs/2506.05442)
 - *2025.05*: 🎉 One paper is accepted by [IEEE Internet of Things Journal (IoT-J)](https://ieeexplore.ieee.org/abstract/document/10988688) ! **(SCI Q1, top, IF=8.9)**
 - *2024.12*: 🎉 One paper is accepted by [IEEE Transactions on Intelligent Vehicles (TIV)](https://ieeexplore.ieee.org/abstract/document/10816591) ! **(SCI Q1, top, IF=14.3)**
@@ -60,6 +61,20 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/anchdrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving**
+
+Jinhao Chai, Anqing Jiang, **<ins>_Hao Jiang_</ins>**, Shiyi Mu, Zichong Gu, Hao Sun, Shugong Xu
+
+[![Static Badge](https://img.shields.io/badge/arXiv-Paper-red?logo=arXiv)](https://arxiv.org/abs/2509.20253)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/TAME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

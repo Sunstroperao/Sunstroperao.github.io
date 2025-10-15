@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao Jiang"
+  name             : "Hao Jiang (姜浩)"
   avatar           : "images/jh_profile.jpg"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/channel/UC1CBCmAxFzaObRjsFPsioPQ
   wikipedia        :
 
 

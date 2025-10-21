@@ -28,7 +28,7 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 - *2025.10*: 🎉 We won **8th place** in [**NAVSIM v2 End-to-End Driving Challenge（ICCV2025）!**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving)
 - *2025.09*: 🔥 We released **FlowDrive** ! [Check it out !](https://astrixdrive.github.io/FlowDrive.github.io/)  
 - *2025.09*: 🔥 We released **AnchDrive** ! [Check it out !](https://arxiv.org/abs/2509.20253)  
-- *2025.06*: 🎉 We won <font color=red>**2nd place**</font> in [**NAVSIM v2 End-to-End Driving Challenge（CVPR2025）!**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving) [Check it out !](https://arxiv.org/abs/2505.19381)
+- *2025.06*: 🎉 We won **<font color=red>2nd place</font>** in [**NAVSIM v2 End-to-End Driving Challenge（CVPR2025）!**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving) [Check it out !](https://arxiv.org/abs/2505.19381)
 - *2025.06*: 🔥 We released **FastDrive** ! [Check it out !](https://arxiv.org/abs/2506.05442)
 - *2025.05*: 🎉 One paper is accepted by [IEEE Internet of Things Journal (IoT-J)](https://ieeexplore.ieee.org/abstract/document/10988688) ! **(SCI Q1, top, IF=8.9)**
 - *2024.12*: 🎉 One paper is accepted by [IEEE Transactions on Intelligent Vehicles (TIV)](https://github.com/Sunstroperao/TAME) ! **(SCI Q1, top, IF=14.3)**

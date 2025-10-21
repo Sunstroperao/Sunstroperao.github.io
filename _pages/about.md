@@ -19,15 +19,16 @@ redirect_from:
 
 <img src="../images/banner.png" alt="description" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);" />
 
-I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao Tong University (SJTU). My research interests focus on **end-to-end autonomous driving** and **vision-language-action (VLA) for autonomous driving**. In parallel, I serve as a Strategy Intern at Bosch Corporate Research Institute, engaging in frontier research on autonomous driving.
+I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao Tong University (SJTU). My research interests focus on **End-to-End Autonomous Driving** and **Vision-Language-Action (VLA) for Autonomous Driving**. In parallel, I serve as a Strategy Intern at Bosch Corporate Research Institute, engaging in frontier research on autonomous driving.
 
 **<span style="color:#DD2222;">Note:</span> I am committed to advancing research in autonomous driving and actively seek opportunities to collaborate with partners from academia and industry. If you are interested in potential projects or idea exchanges, please feel free to contact me at [hao.jiang@sjtu.edu.cn](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new).**
 
 
 # 🔥 News
+- *2025.10*: 🎉 We won **8th place** in [**NAVSIM v2 End-to-End Driving Challenge（ICCV2025）!**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving)
 - *2025.09*: 🔥 We released **FlowDrive** ! [Check it out !](https://astrixdrive.github.io/FlowDrive.github.io/)  
 - *2025.09*: 🔥 We released **AnchDrive** ! [Check it out !](https://arxiv.org/abs/2509.20253)  
-- *2025.06*: 🎉 We won **2nd place** in [**NAVSIM v2 End-to-End Driving Challenge !**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving) [Check it out !](https://arxiv.org/abs/2505.19381)
+- *2025.06*: 🎉 We won <font color=red>**2nd place**</font> in [**NAVSIM v2 End-to-End Driving Challenge（CVPR2025）!**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving) [Check it out !](https://arxiv.org/abs/2505.19381)
 - *2025.06*: 🔥 We released **FastDrive** ! [Check it out !](https://arxiv.org/abs/2506.05442)
 - *2025.05*: 🎉 One paper is accepted by [IEEE Internet of Things Journal (IoT-J)](https://ieeexplore.ieee.org/abstract/document/10988688) ! **(SCI Q1, top, IF=8.9)**
 - *2024.12*: 🎉 One paper is accepted by [IEEE Transactions on Intelligent Vehicles (TIV)](https://github.com/Sunstroperao/TAME) ! **(SCI Q1, top, IF=14.3)**

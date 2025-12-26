@@ -81,7 +81,7 @@ Jinhao Chai, Anqing Jiang, **<ins>_Hao Jiang_</ins>**, Shiyi Mu, Zichong Gu, Hao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/TAME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Hybrid Attention-based Multi-task Vehicle Motion Prediction Using Non-Autoregressive Transformer and Mixture of Experts<**
+**Hybrid Attention-based Multi-task Vehicle Motion Prediction Using Non-Autoregressive Transformer and Mixture of Experts**
 
 **<ins>_Hao Jiang_</ins>**, Chuan Hu, Yixun Niu, Biao Yang, Hao Chen, Xi Zhang
 

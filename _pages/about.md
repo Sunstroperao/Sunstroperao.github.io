@@ -26,13 +26,14 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 # 🔥 News
 <!-- - *2025.10*: 🎉 We won **8th place** in [**NAVSIM v2 End-to-End Driving Challenge（ICCV2025）!**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving) -->
+- *2026.01*: 🎉 One Paper is accepted by [ICRA 2026](https://arxiv.org/abs/2506.05442)!
 - *2025.09*: 🔥 We released **FlowDrive** ! [Check it out !](https://astrixdrive.github.io/FlowDrive.github.io/)  
 - *2025.09*: 🔥 We released **AnchDrive** ! [Check it out !](https://arxiv.org/abs/2509.20253)  
 - *2025.06*: 🎉 We won **<font color=red>2nd place</font>** in [**NAVSIM v2 End-to-End Driving Challenge（CVPR2025）!**](https://opendrivelab.com/challenge2025/#navsim-e2e-driving) [Check it out !](https://arxiv.org/abs/2505.19381)
 - *2025.06*: 🔥 We released **FastDrive** ! [Check it out !](https://arxiv.org/abs/2506.05442)
 - *2025.05*: 🎉 One paper is accepted by [IEEE Internet of Things Journal (IoT-J)](https://ieeexplore.ieee.org/abstract/document/10988688) ! **(SCI Q1, top, IF=8.9)**
 - *2024.12*: 🎉 One paper is accepted by [IEEE Transactions on Intelligent Vehicles (TIV)](https://github.com/Sunstroperao/TAME) ! **(SCI Q1, top, IF=14.3)**
-- *2023.10*: 🎉 One paper is accepted by [CVCI 2023](https://ieeexplore.ieee.org/abstract/document/10816591) ! **(Best Paper Candidate)**
+- *2023.10*: 🎉 One paper is accepted by [CVCI 2023](https://ieeexplore.ieee.org/abstract/document/10397282) ! **(Best Paper Candidate)**
 
 
 # 📝 Publications 
@@ -48,11 +49,11 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 
 [![Static Badge](https://img.shields.io/badge/arXiv-Paper-red?logo=arXiv)](https://arxiv.org/abs/2509.14303)  [![Static Badge](https://img.shields.io/badge/Project-Page-red?logo=huggingface)](https://astrixdrive.github.io/FlowDrive.github.io/)  [![Static Badge](https://img.shields.io/badge/Github-Code-red?logo=github)](https://github.com/AstrixDrive/FlowDrive) ![GitHub Repo stars](https://img.shields.io/github/stars/AstrixDrive/FlowDrive)
 
-- FlowDrive introduces energy flow fields for more safety end-to-end autonomous driving. 
+<!-- - FlowDrive introduces energy flow fields for more safety end-to-end autonomous driving.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/FastDrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/FastDrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving**
@@ -98,7 +99,7 @@ Jinhao Chai, Anqing Jiang, **<ins>_Hao Jiang_</ins>**, Shiyi Mu, Zichong Gu, Hao
 - *2024.06* Outstanding Graduate, SJTU 
 
 # 📖 Educations
-- *2024.06 - present*, Ph.D., Shanghai Jiao Tong University, Shanghai, China
+- *2024.09 - present*, Ph.D., Shanghai Jiao Tong University, Shanghai, China
 - *2021.09 - 2024.06*, M.S., Shanghai Jiao Tong University, Shanghai, China 
 
 # 💻 Internships

@@ -22,7 +22,7 @@ redirect_from:
 I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao Tong University (SJTU). My research interests focus on **End-to-End Autonomous Driving** and **Vision-Language-Action (VLA) for Autonomous Driving**. In parallel, I serve as a Strategy Intern at Bosch Corporate Research Institute, engaging in frontier research on autonomous driving.
  <!-- <a href='https://scholar.google.com/citations?user=64H_lz0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-**<span style="color:#DD2222;"> ⚡ ⚡ I am committed to advancing research in autonomous driving and actively seek opportunities to collaborate with partners from academia and industry. If you are interested in potential projects or idea exchanges, please feel free to contact me at [hao.jiang@sjtu.edu.cn](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new).</span>**
+**<span style="color:#DD2222;"> 📣 I am committed to advancing research in autonomous driving and actively seek opportunities to collaborate with partners from academia and industry. If you are interested in potential projects or idea exchanges, please feel free to contact me at [hao.jiang@sjtu.edu.cn](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new).</span>**
 
 
 # 🔥 News

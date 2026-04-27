@@ -97,6 +97,7 @@ Jinhao Chai, Anqing Jiang, **<ins>_Hao Jiang_</ins>**, Shiyi Mu, Zichong Gu, Hao
 - [Decision-Making for Autonomous Driving Via a Coupled Reinforcement Learning Network Combined With Risk Assessment](https://ieeexplore.ieee.org/document/11091425). Chuan Hu, Yixun Niu, **<ins>_Hao Jiang_</ins>**, Xi Zhang, Xin Cheng. **IEEE Robotics and Automation Letters**
 
 # 🎖 Honors and Awards
+- *2025.12* Foresight Fund–Sequoia Capital Talent Development Fund, SJTU
 - *2024.06* Outstanding Graduate, SJTU 
 
 # 📖 Educations

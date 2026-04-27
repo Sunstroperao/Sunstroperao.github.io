@@ -90,7 +90,7 @@ Jinhao Chai, Anqing Jiang, **<ins>_Hao Jiang_</ins>**, Shiyi Mu, Zichong Gu, Hao
 </div>
 </div>
 
-- [Graph Attention Transformer with Multi-Task Learning for Motion Prediction in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/11430576). **<ins>_Hao Jiang_</ins>**, Chuan Hu†, Hao Jiang†, Peichuan Lang, Biao Yang, Xiaobo Chen, Hao Chen. **IEEE Transactions on Artificial Intelligence**
+- [Graph Attention Transformer with Multi-Task Learning for Motion Prediction in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/11430576). **<ins>_Chuan Hu<sup>†</sup>, Hao Jiang<sup>†</sup>_</ins>**, Peichuan Lang, Biao Yang, Xiaobo Chen, Hao Chen. **IEEE Transactions on Artificial Intelligence**
 
 - [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688). **<ins>_Hao Jiang_</ins>**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. **IEEE Internet of Things Journal**
 - [Motion Query-based Multimodal Vehicle Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10397282). **<ins>_Hao Jiang_</ins>**, Yixun Niu, Chuan Hu, Shuang Hu, Baixuan Zhao, Xi Zhang, Yiwei Lin. **CVCI 2023**

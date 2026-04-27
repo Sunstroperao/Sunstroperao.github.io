@@ -66,6 +66,17 @@ I am  a Ph.D. student at the Institute of Intelligent Vehicles, Shanghai Jiao To
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/TAME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hybrid Attention-based Multi-task Vehicle Motion Prediction Using Non-Autoregressive Transformer and Mixture of Experts**
+
+**<ins>_Hao Jiang_</ins>**, Chuan Hu, Yixun Niu, Biao Yang, Hao Chen, Xi Zhang
+
+[![Static Badge](https://img.shields.io/badge/IEEE-Paper-red?logo=IEEE)](https://ieeexplore.ieee.org/abstract/document/10816591)  [![Static Badge](https://img.shields.io/badge/Github-Code-red?logo=github)](https://github.com/Sunstroperao/TAME) ![GitHub Repo stars](https://img.shields.io/github/stars/Sunstroperao/TAME)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/anchdrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,20 +90,9 @@ Jinhao Chai, Anqing Jiang, **<ins>_Hao Jiang_</ins>**, Shiyi Mu, Zichong Gu, Hao
 </div>
 </div>
 
+- [Graph Attention Transformer with Multi-Task Learning for Motion Prediction in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/11430576). **<ins>_Hao Jiang_</ins>**, Chuan Hu†, Hao Jiang†, Peichuan Lang, Biao Yang, Xiaobo Chen, Hao Chen. **IEEE Transactions on Artificial Intelligence**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIV</div><img src='images/TAME.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Hybrid Attention-based Multi-task Vehicle Motion Prediction Using Non-Autoregressive Transformer and Mixture of Experts**
-
-**<ins>_Hao Jiang_</ins>**, Chuan Hu, Yixun Niu, Biao Yang, Hao Chen, Xi Zhang
-
-[![Static Badge](https://img.shields.io/badge/IEEE-Paper-red?logo=IEEE)](https://ieeexplore.ieee.org/abstract/document/10816591)  [![Static Badge](https://img.shields.io/badge/Github-Code-red?logo=github)](https://github.com/Sunstroperao/TAME) ![GitHub Repo stars](https://img.shields.io/github/stars/Sunstroperao/TAME)
-
-</div>
-</div>
-
-- [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688/). **<ins>_Hao Jiang_</ins>**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. **IEEE Internet of Things Journal**
+- [Multi-Modal Vehicle Motion Prediction Based on Motion-Query Social Transformer Network for Internet of Vehicles](https://ieeexplore.ieee.org/abstract/document/10988688). **<ins>_Hao Jiang_</ins>**, Baixuan Zhao, Chuan Hu, Hao Chen, Xi Zhang. **IEEE Internet of Things Journal**
 - [Motion Query-based Multimodal Vehicle Trajectory Prediction for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10397282). **<ins>_Hao Jiang_</ins>**, Yixun Niu, Chuan Hu, Shuang Hu, Baixuan Zhao, Xi Zhang, Yiwei Lin. **CVCI 2023**
 - [Decision-Making for Autonomous Driving Via a Coupled Reinforcement Learning Network Combined With Risk Assessment](https://ieeexplore.ieee.org/document/11091425). Chuan Hu, Yixun Niu, **<ins>_Hao Jiang_</ins>**, Xi Zhang, Xin Cheng. **IEEE Robotics and Automation Letters**
 
